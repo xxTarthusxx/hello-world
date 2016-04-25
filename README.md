@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Greetings Mortals,
+Tarthus here, I am practicing my coding.
+
